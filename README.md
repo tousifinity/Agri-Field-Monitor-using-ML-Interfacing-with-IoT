@@ -17,4 +17,8 @@
 
 ## Software Requirements  
 - **Arduino IDE** (for ESP32-CAM programming)  
+- **Python** (for object detection processing)  
+
+
+
 
