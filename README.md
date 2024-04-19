@@ -15,6 +15,6 @@
 - **FTDI Module**  
 - Power Supply & Connectors  
 
-
-
+## Software Requirements  
+- **Arduino IDE** (for ESP32-CAM programming)  
 
