@@ -10,6 +10,10 @@
 - Provides insights into seasonal insects (harmful/beneficial).  
 - Can be extended to other domains like **traffic monitoring and surveillance**.  
 
+## Hardware Requirements  
+- **ESP32-CAM Module**  
+- **FTDI Module**  
+- Power Supply & Connectors  
 
 
 
