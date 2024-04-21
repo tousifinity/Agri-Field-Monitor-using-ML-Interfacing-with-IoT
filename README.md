@@ -20,7 +20,8 @@
 - **Python** (for object detection processing)  
 - **TensorFlow, OpenCV, cvlib**  
 
-
+## Future Scopes  
+- Can be extended to other domains like **traffic monitoring and surveillance**.
 
 
 
